@@ -9,7 +9,7 @@ Los scripts que están subidos corresponden a:
 - Elección características y parámetros: aca se muestra el proceso de selección de características para lograr un mejor score. 
 - Creación de csv para Results que falto: debido a que se intento entrenar 100 modelos al mismo tiempo, el collab se paro, pero se lograron entrenar 30 modelo con distintas características. En este script se levantan estos 30 modelos para obtener los scores y evaluar la selección de características. 
 -  TP2 Analisis dataset y preprocesamiento: acá se analizan los datasets, se los procesa y agregan características para la posterior creación del modelo.
--  Analisis de Embeddings y Resultados: acá se analizan los embeddings. 
+-  TP2-Analisis de Embeddings y Resultados: acá se analizan los embeddings. 
 
 En las carpetas:
 - submission: se encuentran todos los submissions creados que fueron subidos al kaggle. 
